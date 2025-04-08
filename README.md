@@ -1,3 +1,8 @@
+# Status
+At the moment, this repository is being updated. The Exploratory Data Analysis notebook is the only one that has reliable content.
+I am currently working on updating the notebook that actually runs the code for classification, named entity recognition and other concepts this repository hopes to explore.
+I also am working making these notebooks able to run on computers without Graphics Cards (GPUs), since there are library import issues with torch, transformers, and some other libraries that need access to CUDA related libraries.
+
 # Sentence-Transformer-Implementation
 A Sentence Transformer implementation using sBERT's sentence_transformers and Huggingface's transformers library
 
