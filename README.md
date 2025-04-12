@@ -3,6 +3,11 @@ At the moment, this repository is being updated. The Exploratory Data Analysis n
 I am currently working on updating the notebook that actually runs the code for classification, named entity recognition and other concepts this repository hopes to explore.
 I also am working making these notebooks able to run on computers without Graphics Cards (GPUs), since there are library import issues with torch, transformers, and some other libraries that need access to CUDA related libraries.
 
+The "Transformers and Multi-task Learning Notebook" currently runs when imported on Google Colab, even though the notebook needs to be updated. When the notebook is run on a computer without GPU availability, you may run into import issues with the transformers and sentence_transformers library:
+![image](https://github.com/user-attachments/assets/55e16fd6-80d2-4371-9e60-e78f1ebde230)
+
+This will be a work in progress item. Thank you.
+
 # Sentence-Transformer-Implementation
 A Sentence Transformer implementation using sBERT's sentence_transformers and Huggingface's transformers library
 
