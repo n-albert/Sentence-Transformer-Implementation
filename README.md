@@ -8,6 +8,10 @@ The "Transformers and Multi-task Learning Notebook" currently runs when imported
 
 This will be a work in progress item. Thank you.
 
+# To Do Items:
+- Implement confusion matrix metrics for the "Finetuning_a_Sentence_Transformer_model_for_Text_Classification" notebook.
+- Implement another version for the "Finetuning_a_Sentence_Transformer_model_for_Text_Classification" notebook, where some layers of the model are frozen, but the others are not and able to be finetuned.
+
 # Sentence-Transformer-Implementation
 A Sentence Transformer implementation using sBERT's sentence_transformers and Huggingface's transformers library
 
