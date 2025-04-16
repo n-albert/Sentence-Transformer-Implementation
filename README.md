@@ -11,6 +11,7 @@ This will be a work in progress item. Thank you.
 # To Do Items:
 - Implement confusion matrix metrics for the "Finetuning_a_Sentence_Transformer_model_for_Text_Classification" notebook.
 - Implement another version for the "Finetuning_a_Sentence_Transformer_model_for_Text_Classification" notebook, where some layers of the model are frozen, but the others are not and able to be finetuned.
+- Implement the work done in the Exploratory Data Analysis notebook to understand the data and use it to pare down or prune the datasets, before they are sampled down. What I mean is selecting the movie reviews, in the dataset, that are within an expected number of sentences in length for training.
 
 # Sentence-Transformer-Implementation
 A Sentence Transformer implementation using sBERT's sentence_transformers and Huggingface's transformers library
